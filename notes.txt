@@ -1,0 +1,16 @@
+class topics:-
+Box Model
+CSS Flex out
+position:
+fixed,static,relative,absolute,sticky
+media query
+
+padding:
+1.inside part of the content.
+2.space bw content and the element border
+3.top,right,bottom and left 
+
+physical dimension of the element
+
+margin:
+1.space outside an element

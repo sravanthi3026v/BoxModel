@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(59, 201, 201);
+    padding:20px;
+    margin:20px;
+    width:500px;
+    text-align:center;
+    text-transform:uppercase;
+    box-shadow: 0 0 30px black;    
+}
+p{
+    border:5px solid black;
+}
